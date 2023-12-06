@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.btn {
+  height: 8vh;
+  width: 10vw;
+  border: 0px solid;
+  border-radius: 12px;
+  padding: 10px;
+  color: #2b2c49;
+  background-color: #f8fafc;
+  font-size: 18px;
+}
